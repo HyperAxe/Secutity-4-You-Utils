@@ -173,8 +173,8 @@ export const botConfig = {
     dailyAmount: 100,
 
     // Work command random payout range.
-    workMin: 235685,
-    workMax: 23568556,
+    workMin: 10,
+    workMax: 300,
 
     // Beg command random payout range.
     begMin: 5,
