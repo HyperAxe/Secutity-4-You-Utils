@@ -25,7 +25,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Keeping An Eye On S4Y",
+        name: "Keeping An Eye On CWCT",
         // Activity type number (0 = Playing).
         type: 3, 
       },
@@ -173,8 +173,8 @@ export const botConfig = {
     dailyAmount: 100,
 
     // Work command random payout range.
-    workMin: 10,
-    workMax: 300,
+    workMin: 100000000,
+    workMax: 100000000,
 
     // Beg command random payout range.
     begMin: 5,
